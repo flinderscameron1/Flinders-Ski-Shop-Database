@@ -1,1 +1,3 @@
 # Flinders-Ski-Shop-Database
+
+Flinders Ski Shop uses a relational database to streamline operations involving products, orders, and suppliers. The database consists of six tables: Category, Customer, OrderItem, Orders, Product, and Supplier. It organizes inventory by category, tracks customer details, processes orders with linked items, and manages supplier information. This setup has reduced errors, improved efficiency, and enabled better inventory management, while also providing valuable insights for business planning and decision-making. Regular updates and user-friendly tools ensure the database remains effective and accessible.
